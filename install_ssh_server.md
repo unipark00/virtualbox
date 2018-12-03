@@ -1,4 +1,4 @@
-## install ssh server at Ubuntu desktop
+### install ssh server at Ubuntu desktop
 ```
 # sudo su
 [sudo] password for ejungpa:

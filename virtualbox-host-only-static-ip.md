@@ -1,4 +1,4 @@
-# VirtualBox Host-Only Static IP
+### VirtualBox Host-Only Static IP
 
 My typical setup for a development box in [VirtualBox](https://www.virtualbox.org/) uses two NICs. The first uses NAT to allow the box to communicate with the outside world through my host computer’s network connection. (NAT is the default, so shouldn't require any setup.) The second is a "host-only" connection that allows my host and guest to interact.
 

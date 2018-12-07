@@ -5,3 +5,7 @@
 # sudo iptables -A FORWARD -o enp3s0 -j ACCEPT
 # sudo iptables -A FORWARD -i enp3s0 -j ACCEPT
 ```
+DNS
+```
+146.11.115.200 153.88.112.200 147.117.20.200 8.8.8.8
+```
